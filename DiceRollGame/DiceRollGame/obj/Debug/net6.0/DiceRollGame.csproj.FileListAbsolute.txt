@@ -1,0 +1,14 @@
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\bin\Debug\net6.0\DiceRollGame.exe
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\bin\Debug\net6.0\DiceRollGame.deps.json
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\bin\Debug\net6.0\DiceRollGame.runtimeconfig.json
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\bin\Debug\net6.0\DiceRollGame.dll
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\bin\Debug\net6.0\DiceRollGame.pdb
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\DiceRollGame.dll
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\refint\DiceRollGame.dll
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\DiceRollGame.pdb
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\Nicol\source\repos\DiceRollGame\DiceRollGame\obj\Debug\net6.0\ref\DiceRollGame.dll

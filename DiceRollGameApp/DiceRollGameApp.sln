@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollGameApp", "DiceRollGameApp\DiceRollGameApp.csproj", "{0A50C512-19C8-4B02-B4FB-E1A5FE23DDC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollGameAppTests", "DiceRollGameAppTests\DiceRollGameAppTests.csproj", "{3BC60716-7E4F-48F3-8140-A5C9266B466E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A50C512-19C8-4B02-B4FB-E1A5FE23DDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A50C512-19C8-4B02-B4FB-E1A5FE23DDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A50C512-19C8-4B02-B4FB-E1A5FE23DDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A50C512-19C8-4B02-B4FB-E1A5FE23DDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC60716-7E4F-48F3-8140-A5C9266B466E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC60716-7E4F-48F3-8140-A5C9266B466E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC60716-7E4F-48F3-8140-A5C9266B466E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC60716-7E4F-48F3-8140-A5C9266B466E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78AB36DA-0B7A-48BD-A844-D21EBE877301}
+	EndGlobalSection
+EndGlobal

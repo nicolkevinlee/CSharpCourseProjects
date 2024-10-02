@@ -1,0 +1,14 @@
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\bin\Debug\net7.0\FibonacciGeneratorApp.exe
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\bin\Debug\net7.0\FibonacciGeneratorApp.deps.json
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\bin\Debug\net7.0\FibonacciGeneratorApp.runtimeconfig.json
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\bin\Debug\net7.0\FibonacciGeneratorApp.dll
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\bin\Debug\net7.0\FibonacciGeneratorApp.pdb
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\FibonacciGeneratorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\FibonacciGeneratorApp.AssemblyInfoInputs.cache
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\FibonacciGeneratorApp.AssemblyInfo.cs
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\FibonacciGeneratorApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\FibonacciGeneratorApp.dll
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\refint\FibonacciGeneratorApp.dll
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\FibonacciGeneratorApp.pdb
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\FibonacciGeneratorApp.genruntimeconfig.cache
+C:\Users\Nicol\source\repos\FibonacciGenerator\FibonacciGenerator\obj\Debug\net7.0\ref\FibonacciGeneratorApp.dll

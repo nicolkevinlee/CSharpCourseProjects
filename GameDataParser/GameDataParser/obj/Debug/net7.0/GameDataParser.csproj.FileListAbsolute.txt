@@ -1,0 +1,14 @@
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\bin\Debug\net7.0\GameDataParser.exe
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\bin\Debug\net7.0\GameDataParser.deps.json
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\bin\Debug\net7.0\GameDataParser.runtimeconfig.json
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\bin\Debug\net7.0\GameDataParser.dll
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\bin\Debug\net7.0\GameDataParser.pdb
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\GameDataParser.AssemblyInfoInputs.cache
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\GameDataParser.AssemblyInfo.cs
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\GameDataParser.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\GameDataParser.dll
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\refint\GameDataParser.dll
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\GameDataParser.pdb
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\GameDataParser.genruntimeconfig.cache
+C:\Users\Nicol\source\repos\GameDataParser\GameDataParser\obj\Debug\net7.0\ref\GameDataParser.dll

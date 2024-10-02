@@ -1,0 +1,14 @@
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\Nicol\Documents\Projects\CSharp\TodoList\Calculator\obj\Debug\net6.0\ref\Calculator.dll

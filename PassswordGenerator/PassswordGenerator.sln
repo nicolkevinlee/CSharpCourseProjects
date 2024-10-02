@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassswordGenerator", "PassswordGenerator\PassswordGenerator.csproj", "{36512382-55D1-4159-88A1-E6C7F638D454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGeneratorTests", "PasswordGeneratorTests\PasswordGeneratorTests.csproj", "{199AF532-F224-4FC5-94E7-AC0152280B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36512382-55D1-4159-88A1-E6C7F638D454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36512382-55D1-4159-88A1-E6C7F638D454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36512382-55D1-4159-88A1-E6C7F638D454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36512382-55D1-4159-88A1-E6C7F638D454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199AF532-F224-4FC5-94E7-AC0152280B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199AF532-F224-4FC5-94E7-AC0152280B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199AF532-F224-4FC5-94E7-AC0152280B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199AF532-F224-4FC5-94E7-AC0152280B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A975D403-3AEB-436E-8D1A-96884DD87B64}
+	EndGlobalSection
+EndGlobal
